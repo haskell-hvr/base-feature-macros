@@ -18,7 +18,7 @@
 #define HAVE_NATURAL_IN_BASE                    MIN_VERSION_base(4,8,0)
 
 /* @since 0.1 */
-#define HAVE_SEMIGROUP_IN_BASE                  MIN_VERSION_base(4,8,0)
+#define HAVE_SEMIGROUP_IN_BASE                  MIN_VERSION_base(4,9,0)
 
 /* @since 0.1 */
 #define HAVE_MONAD_FAIL                         MIN_VERSION_base(4,9,0)
